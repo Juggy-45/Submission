@@ -1,0 +1,26 @@
+*{
+    margin: 0px;    
+    padding: 0px;
+}
+
+.main {
+    background-color: rgba(33, 13, 111);
+    background-image: url("./assets/Artboard-13.jpg");
+    background-attachment: fixed;
+    background-size: 100%;
+    background-position: right;
+    background-repeat: no-repeat;
+    padding: 100px 20px 30px 20px ;
+    height: 100vh;
+    font-size: 49px;
+    color: white;
+    
+
+}
+.secondary {
+    background-image: url("./assets/hero-bg.jpg");
+    height: 50vh;
+    background-attachment: fixed;
+    background-position: center;
+
+}
